@@ -274,3 +274,6 @@ footer li a {
   .page.active {
     opacity: 1;
   }
+.margin{
+    margin: 1vw 0 47vw 0;
+  }
